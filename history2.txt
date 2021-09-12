@@ -1,0 +1,500 @@
+   78  which python
+   79  cd
+   80  cd
+   81  ls -al
+   82  brew --version
+   83  cd
+   84  cd
+   85  ls
+   86  $ echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zsh
+   87  $ echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zsh
+   88  $ echo 'eval "$(pyenv init -)"' >> ~/.zsh
+   89  $ source ~/.zsh
+   90  pyenv install 3.6.6
+   91  echo $PATH
+   92  brew
+   93  brew install
+   94  brew install python3
+   95  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+   96  brew install python3
+   97  which python
+   98  which python
+   99  brew install
+  100  brew install python3
+  101  ln -s /usr/local/opt/python@3.7/bin/python3.7 /usr/local/bin/python3.7
+  102  brew install
+  103  brew install python3
+  104  clear
+  105  Miniforge3-MacOSX-arm64.sh
+  106  clear
+  107  cd Download
+  108  cd Downloads
+  109  ls
+  110  Miniforge3-MacOSX-arm64.sh
+  111  bash Miniforge3-MacOSX-arm64.sh
+  112  cd ..
+  113  ls
+  114  source ~/.zshrc
+  115  ls
+  116  python
+  117  python3
+  118  clear
+  119  bash Miniconda3-latest-MacOSX-x86_64.sh
+  120  cd ~/Downloads
+  121  bash Miniconda3-latest-MacOSX-x86_64.sh
+  122  cd ~/Downloads
+  123  ls
+  124  clear
+  125  cd ~/Downloads
+  126  bash Miniconda3-latest-MacOSX-x86_64.sh
+  127  ls -la bash Miniconda3-latest-MacOSX-x86_64.sh
+  128  ls -labash Miniconda3-latest-MacOSX-x86_64.sh
+  129  ls -la.bash Miniconda3-latest-MacOSX-x86_64.sh
+  130  clear
+  131  ls -la bash Miniconda3-latest-MacOSX-x86_64.sh
+  132  ls
+  133  clear
+  134  bash Miniconda3-latest-MacOSX-x86_64.sh
+  135  ls -la bash Miniconda3-latest-MacOSX-x86_64.sh
+  136  ls -la *.sh
+  137  bash <Miniconda3-py39_4.9.2-MacOSX-x86_64.sh
+  138  yes
+  139  bash Miniconda3-latest-MacOSX-x86_64.sh
+  140  cd ~/Downloads
+  141  ls -la *.sh
+  142  bash Miniconda3-py39_4.9.2-MacOSX-x86_64.sh
+  143  ls
+  144  cd ~/Downloads
+  145  ls -la *.sh
+  146  bash Miniconda3-py39_4.9.2-MacOSX-x86_64.sh
+  147  bash Miniconda3-py39_4.9.2-MacOSX-x86_64.sh
+  148  cd ~/Downloads
+  149  bash Miniconda3-py39_4.9.2-MacOSX-x86_64.sh
+  150  python3 --version
+  151  ls
+  152  cd ~/Downloads
+  153  ls -la *.sh
+  154  bash Miniforge3-MacOSX-arm64.sh
+  155  cd ~/Downloads
+  156  ls -la*.sh
+  157  ls -la *.sh
+  158  bash Miniforge3-MacOSX-arm64.sh
+  159  cd ~/Downloads
+  160  ls la *.sh
+  161  ls -la *.sh
+  162  bash Miniforge3-MacOSX-arm64.sh
+  163  cd ~/
+  164  cd ~/Downloads
+  165  ls -la *.sh
+  166  bash Miniconda3-py39_4.9.2-MacOSX-x86_64.sh
+  167  ls
+  168  cd Downloads/
+  169  ls -l
+  170  ls -l | grep Mini
+  171  chmod -c 777 ./Miniforge3-MacOSX-arm64.sh 
+  172  chmod c 777 ./Miniforge3-MacOSX-arm64.sh 
+  173  man chmod
+  174  conda
+  175  python /Users/matsumotoyoshiki/sample1/test.py
+  176  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/test.py
+  177  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/test.py
+  178  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/test.py
+  179  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/test.py
+  180  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/test.py
+  181  source /Users/matsumotoyoshiki/miniconda3/bin/activate
+  182  conda activate base
+  183  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/test.py
+  184  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/test.py
+  185  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/test.py
+  186  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/test.py
+  187  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/test.py
+  188  source /Users/matsumotoyoshiki/miniconda3/bin/activate
+  189  conda activate base
+  190  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/test.py
+  191  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/test.py
+  192  source /Users/matsumotoyoshiki/miniconda3/bin/activate
+  193  conda activate base
+  194  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/test.py
+  195  source /Users/matsumotoyoshiki/miniconda3/bin/activate
+  196  conda activate base
+  197  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/test.py
+  198  source /Users/matsumotoyoshiki/miniconda3/bin/activate
+  199  conda activate base
+  200  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/test.py
+  201  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/test.py
+  202  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/test.py
+  203  source /Users/matsumotoyoshiki/miniconda3/bin/activate
+  204  conda activate base
+  205  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/test.py
+  206  conda info -e
+  207  python --version
+  208  conda activate base
+  209  conda install flake8 -y
+  210  conda install autopep8 -y
+  211  conda install numpy
+  212  conda install matplotlib
+  213  ls
+  214  cd ./miniconda3/
+  215  ls
+  216  cd ./lib
+  217  ls
+  218  clear
+  219  grep -R numpy ~/miniconda3/
+  220  clear
+  221  cd ~/miniconda3/
+  222  ls
+  223  cd pkgs/
+  224  ls
+  225  pwd
+  226  conda install pandas
+  227  conda install sklearn
+  228  conda install scikit-learn
+  229  conda install -c conda-forge opencv
+  230  conda install -c conda-forge opencv
+  231  conda install -c  conda-forge opencv
+  232  conda install -c  conda-forge/label/gcc7 opencv
+  233  pip search opencv-python
+  234  pip
+  235  pip search
+  236  pip search opencv
+  237  pip install opencv-python
+  238  cd ~
+  239  cd ./sample1/
+  240  ls
+  241  conda test.py 
+  242  python test.py 
+  243  python test.py 
+  244  python test.py 
+  245  source /Users/matsumotoyoshiki/miniconda3/bin/activate
+  246  conda activate base
+  247  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/test.py
+  248  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/test.py
+  249  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/test.py
+  250  /Users/matsumotoyoshiki/miniconda3/bin/python /Users/matsumotoyoshiki/sample1/sample.py
+  251  brew install gcc
+  252  which g
+  253  which cpp
+  254  source /Users/matsumotoyoshiki/miniconda3/bin/activate
+  255  conda activate base
+  256  /Users/matsumotoyoshiki/miniconda3/bin/python
+  257  pip install numpy
+  258  source /Users/matsumotoyoshiki/miniconda3/bin/activate
+  259  conda activate base
+  260  /Users/matsumotoyoshiki/miniconda3/bin/python
+  261  source /Users/matsumotoyoshiki/miniconda3/bin/activate
+  262  conda activate base
+  263  /Users/matsumotoyoshiki/miniconda3/bin/python
+  264  ls
+  265  cd..
+  266  ls
+  267  cd Desktop/
+  268  ls
+  269  cd..
+  270  ls
+  271  pwd
+  272  ls
+  273  clear
+  274  ls
+  275  python
+  276  python
+  277  /usr/local/bin/python3.9
+  278  ls
+  279  cd Desktop/
+  280  ls
+  281  sudo ls
+  282  clear
+  283  ls
+  284  ls
+  285  mkdir sample
+  286  ls
+  287  cd sample/
+  288  ls
+  289  touch sample.py
+  290  ls
+  291  emacs sample.py
+  292  cat sample.py
+  293  python sample.py 
+  294  ls
+  295  touch sample.py
+  296  cd..
+  297  cd ..
+  298  ls
+  299  cd sample/
+  300  ls
+  301  touch sample2.py
+  302  ls
+  303  clear
+  304  ls
+  305  history 
+  306  clear
+  307  ls
+  308  cat sample2.py 
+  309  ls
+  310  cat sample2.py 
+  311  cat sample.py 
+  312  history 
+  313  ls
+  314  cat sample.py 
+  315  python sample.py 
+  316  python sample2.py 
+  317  ls
+  318  cd ..
+  319  ls
+  320  mkdir awsome
+  321  ls
+  322  cd awsome/
+  323  ls
+  324  git init
+  325  ls
+  326  git init
+  327  touch hello.py
+  328  git status
+  329  ls
+  330  rm -r hello.html 
+  331  ls
+  332  cd ../..
+  333  ls
+  334  cd Desktop/
+  335  ls
+  336  cd sample/
+  337  ls
+  338  cd ..
+  339  ls
+  340  cd awsome/
+  341  ls
+  342  git init
+  343  git status
+  344  touch hello.html
+  345  ls
+  346  git add hello.html 
+  347  ls
+  348  git status
+  349  ls
+  350  git commit -m "add new file"
+  351  git status
+  352  ls
+  353  python
+  354  ls
+  355  ls
+  356  cd Desktop/
+  357  ls
+  358  cd sample/
+  359  ls
+  360  python sample.py 
+  361  python sample2.py 
+  362  cd ..
+  363  ls
+  364  pip3 install numpy
+  365  pip3 list
+  366  python3 -m pip install --upgrade numpy
+  367  ls
+  368  cd awsome/
+  369  ls
+  370  python hello.py 
+  371  python hello.py 
+  372  python hello.py 
+  373  ls
+  374  python hello.py 
+  375  python
+  376  python
+  377  /usr/local/bin/python3.9 /Users/matsumotoyoshiki/Desktop/awsome/test.py/test.py
+  378  /usr/local/bin/python3.9
+  379  /usr/local/bin/python3.9
+  380  ls
+  381  list
+  382  conda list
+  383  /user/local/bin/python3.9
+  384  clear
+  385  /usr/local/bin/python3.9
+  386  /usr/local/bin/python3.9
+  387  /usr/local/bin/python3.9
+  388  uname -m
+  389  conda install numpy
+  390  conda install matplot
+  391  y
+  392  conda list
+  393  ls
+  394  mkdir FFF
+  395  ls
+  396  cd FFF
+  397  ls
+  398  git -V
+  399  git --v
+  400  git --version
+  401  git clone https://github.com/junya-kato/fff_jungle.git
+  402  git clone https://github.com/junya-kato/fff_jungle.git
+  403  git clone https://github.com/junya-kato/fff_jungle.git
+  404  git clone https://github.com/junya-kato/fff_jungle.git
+  405  ls
+  406  cd fff_jungle/
+  407  ls
+  408  nano
+  409  nano hello_world.txt 
+  410  ls
+  411  git branch
+  412  vim helloworld.py
+  413  ls
+  414  cat helloworld.py 
+  415* 
+  416  git status
+  417  git add helloworld.py 
+  418  ls
+  419  git status
+  420  git commit -m "made by yoshiki"
+  421  git status
+  422  git push origin main
+  423  ls
+  424  git status
+  425  git pull origin main
+  426  ls
+  427  cat array_sum.py 
+  428  python array_sum.py 
+  429  git pull origin main
+  430  ls
+  431  python yuki_work.py 
+  432  cat yuki_work.py 
+  433  history
+  434  git history
+  435  history > history.txt
+  436  ls
+  437  mv history.txt ..
+  438  ls
+  439  cd ..
+  440  ls
+  441  cat history.txt 
+  442  ls
+  443  cd fff_jungle/
+  444  ls
+  445  git status
+  446  brew install --cask clipy
+  447  pwd
+  448  ls
+  449  python
+  450  git init
+  451  python -V
+  452* 
+  453  source venv/bin/activate
+  454  cd ..
+  455  ls
+  456  cd ..
+  457  ls
+  458  cd Practice/
+  459  ls
+  460  source venv/bin/activate
+  461  deactivate 
+  462  ls
+  463  source venv/bin/activate
+  464  ls
+  465  deactivate 
+  466  ls
+  467  source venv/bin/activate
+  468  ls
+  469  pip freeze
+  470  pip uninstall matplotlib
+  471  pip freeze
+  472  deactivate 
+  473  ls
+  474  cd ..
+  475  ls
+  476  cd FFF/
+  477  ls
+  478  cd fff_jungle/
+  479  ls
+  480  nano
+  481  nano hello_world.txt 
+  482  git --version
+  483  git --V
+  484  git --v
+  485  git --version
+  486  git clone https://github.com/junya-kato/fff_jungle.git
+  487  git clone https://github.com/junya-kato/fff_jungle.git
+  488  git clone https://github.com/YoshikiMatsumoto/develop.git
+  489  ls
+  490  rm develop/ gittest
+  491  ls
+  492  rm develop/gittest
+  493  rm develop gittest
+  494  rename develop gittest
+  495  mv develop gittest
+  496  ls
+  497  cd gittest
+  498  git init
+  499  test.txt
+  500  ls
+  501  ls
+  502  git add test.txt 
+  503  git add test.txt 
+  504  git status
+  505  git branch
+  506  ls
+  507  git branch
+  508  vim helloworld.py 
+  509  ls
+  510  cat helloworld.py 
+  511  mv helloworld.py dot
+  512  ls
+  513  vim dot 
+  514  ls
+  515  cat helloworld.py 
+  516  cat dot 
+  517  python dot 
+  518  vim dot 
+  519  python dot 
+  520  vim dot 
+  521  python dot 
+  522  vim dot 
+  523  python dot 
+  524  vim dot 
+  525  git status
+  526  git add dot 
+  527  git commit -m "git test"
+  528  git push origin main
+  529  cd ..
+  530  ls
+  531  git push origin main
+  532  python array_sum.py 
+  533  cd gittest/
+  534  ls
+  535  git pull origin main
+  536  ls
+  537  git status
+  538  ks
+  539  ls
+  540  mv dot dot.py
+  541  python dot.py 
+  542  git remote add origin https://github.com/YoshikiMatsumoto/develop.git
+  543  git commit -m "dot"
+  544  git status
+  545  git add
+  546  ls
+  547  git add dot.py 
+  548  ls
+  549  git status
+  550  git push
+  551  git clone https://github.com/junya-kato/fff_jungle.git
+  552  git push
+  553  git remote add origin https://github.com/junya-kato/fff_jungle.git
+  554  git push origin master
+  555  git push
+  556  git commit -m "yoshiki_test"
+  557  git push
+  558  git push https://github.com/junya-kato/fff_jungle.git
+  559  cd ..
+  560  ls
+  561  git push https://github.com/junya-kato/fff_jungle.git
+  562  git push
+  563  git push
+  564  git status
+  565  git add
+  566  git status
+  567  git add dot.py test.txt 
+  568  ls
+  569  git commit "add_newfile"
+  570  git commit "add_new"
+  571  git commit -m "add_new"
+  572  git push origin main
+  573  git pull origin main
+  574  ls
+  575  python dot.py 
+  576  git status
+  577  history > history2.txt
